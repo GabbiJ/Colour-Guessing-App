@@ -1,0 +1,47 @@
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.exe.config
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.exe
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.pdb
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.AssemblyReference.cache
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\MainWindow.g.cs
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\App.g.cs
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App_MarkupCompile.cache
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App_MarkupCompile.lref
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\MainWindow.baml
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.g.resources
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour_Guessing_App.Properties.Resources.resources
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.GenerateResource.cache
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.CoreCompileInputs.cache
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.exe
+C:\Users\Gabbi 9\OneDrive - ADvTECH Ltd\Varsity College\Year 2\Semester 1\PROG6221\POE\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.pdb
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.exe.config
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.exe
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.pdb
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.AssemblyReference.cache
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\MainWindow.g.cs
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\App.g.cs
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App_MarkupCompile.cache
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App_MarkupCompile.lref
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\MainWindow.baml
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.g.resources
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour_Guessing_App.Properties.Resources.resources
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.GenerateResource.cache
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.CoreCompileInputs.cache
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.exe
+C:\Users\Gabbi 9\Documents\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.pdb
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.exe.config
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.exe
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\bin\Debug\Colour Guessing App.pdb
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.AssemblyReference.cache
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\MainWindow.g.cs
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\App.g.cs
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App_MarkupCompile.cache
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App_MarkupCompile.lref
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\MainWindow.baml
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.g.resources
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour_Guessing_App.Properties.Resources.resources
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.GenerateResource.cache
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.exe
+C:\Users\USER-PC\OneDrive\Documenti\Code Portfolio\Colour Guessing App\Colour Guessing App\obj\Debug\Colour Guessing App.pdb

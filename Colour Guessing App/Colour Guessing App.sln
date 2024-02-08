@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colour Guessing App", "Colour Guessing App\Colour Guessing App.csproj", "{B00FA257-5520-41AE-8095-7FA122A2A3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00FA257-5520-41AE-8095-7FA122A2A3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00FA257-5520-41AE-8095-7FA122A2A3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00FA257-5520-41AE-8095-7FA122A2A3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00FA257-5520-41AE-8095-7FA122A2A3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4573E68D-3654-4D67-AADA-79D2C37B8E62}
+	EndGlobalSection
+EndGlobal
